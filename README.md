@@ -4,11 +4,11 @@
 🎓 BSc in Data Science, National College of Ireland  
 🏆 Founder & President @ EpochDev NCI  
 🎖️ Recipient of NCI's 75th Anniversary Award for Best Final-Year Project (Bias in RAG across small LLMs)  
-🎙️ AICCONF — presented research on facial emotion recognition APIs
+📚 Published author — 3 peer-reviewed papers on facial emotion recognition and RAG/bias in LLMs
 
-I transform complex data into actionable insights, leveraging Python, SQL, Azure, and modern MLOps practices to support data-driven decision-making and product innovation. Before Microsoft, I worked in IT support at Blackrock Health, and interned with HSE   Technology and Transformation. I'm passionate about applying AI and machine learning to solve real-world challenges, and I enjoy building end-to-end analytics and ML solutions   that deliver measurable impact.
+I transform complex data into actionable insights, leveraging Python, SQL, Azure, and modern MLOps practices to support data-driven decision-making and product innovation. Before Microsoft, I worked in IT support at Blackrock Health, and interned with HSE Technology and Transformation. I'm passionate about applying AI and machine learning to solve real-world challenges, and I enjoy building end-to-end analytics and ML solutions that deliver measurable impact.
 
----  
+---
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python | R | SQL | TypeScript | JavaScript
@@ -21,17 +21,23 @@ I transform complex data into actionable insights, leveraging Python, SQL, Azure
 
 ### 📚 Publications
 
-**Facial Emotion Recognition using Action Units-based Machine Learning**
+**1. Review and Comparison of Facial Emotion Recognition Services and APIs**
+- **Date:** June 2025
+- **Conference:** 2025 3rd Cognitive Models and Artificial Intelligence Conference (AICCONF)
+- **DOI:** [10.1109/AICCONF64766.2025.11064077](https://doi.org/10.1109/AICCONF64766.2025.11064077)
+- **Authors:** Manuel Amir Freer Valdez, Arghir-Nicolae Moldovan, Ioana Ghergulescu
 
-April 2026 — 2026 4th Cognitive Models and Artificial Intelligence Conference (AICCONF)
+**2. Evaluating Retrieval-Augmented Generation on Social Bias Benchmarks across Small Language Models**
+- **Date:** January 2026
+- **Conference:** 15th International Conference on Data Science, Technology and Applications (DATA)
+- **DOI:** [10.5220/0015235400004091](https://doi.org/10.5220/0015235400004091)
+- **Authors:** Manuel Amir Freer Valdez, Arghir-Nicolae Moldovan
 
-DOI: [10.1109/AICCONF69182.2026.11600666](https://doi.org/10.1109/AICCONF69182.2026.11600666)
-
-**Evaluating Retrieval-Augmented Generation on Social Bias Benchmarks across Small Language Models**
-
-AICCONF (Online presentation)
-Evaluates instruction-tuned LLMs (Gemma, Llama, Qwen ≤ 4B params), assessing RAG's utility gains on Natural Questions (NQ) against fairness baselines on the Bias Benchmark for QA (BBQ). Finds that while RAG boosts utility, it can paradoxically increase stereotype engagement in disambiguated settings, revealing a disconnect between factual accuracy and social fairness in small-scale LLMs.
-Co-authored with Arghir-Nicolae Moldovan, School of Computing, National College of Ireland.
+**3. Facial Emotion Recognition using Action Units-based Machine Learning**
+- **Date:** April 2026
+- **Conference:** 2026 4th Cognitive Models and Artificial Intelligence Conference (AICCONF)
+- **DOI:** [10.1109/AICCONF69182.2026.11600666](https://doi.org/10.1109/AICCONF69182.2026.11600666)
+- **Authors:** Manuel Amir Freer Valdez, Arghir-Nicolae Moldovan
 
 ---
 
@@ -71,7 +77,7 @@ Classic ML algorithm implementations and workflows using scikit-learn.
 
 ### 🎖️ Highlights
 - 🏆 NCI 75th Anniversary Award for Best Final-Year Project
-- 🎙️ AICCONF speaker & published author — Facial Emotion Recognition and RAG/Bias research
+- 📚 3 peer-reviewed publications on facial emotion recognition and RAG/bias in LLMs
 - 🥇 2nd Prize, AI Hackathon — MAMMOSCAN breast cancer diagnosis ML system
 - 🎓 IBM AI Engineering Professional Certificate
 
