@@ -4,7 +4,7 @@
 🎓 BSc in Data Science, National College of Ireland  
 🏆 Founder & President @ EpochDev NCI  
 🎖️ Recipient of NCI's 75th Anniversary Award for Best Final-Year Project (Bias in RAG across small LLMs)  
-🎙️ Speaker at AICCONF — presented research on facial emotion recognition APIs
+🎙️ AICCONF — presented research on facial emotion recognition APIs
 
 I transform complex data into actionable insights, leveraging Python, SQL, Azure, and modern MLOps practices to support data-driven decision-making and product innovation. Before Microsoft, I worked in IT support at Blackrock Health, and interned with HSE Technology and Transformation. I'm passionate about applying AI and machine learning to solve real-world challenges, and I enjoy building end-to-end analytics and ML solutions that deliver measurable impact.
 
